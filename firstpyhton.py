@@ -1,4 +1,4 @@
-#pyhton code to end the world.
+#pyhton code to maintain the status quo of the world.
 
-worldend = "This world has ended"
-print(worldend)
+world = "This world is being maintained ended-----  maintained successfully."
+print(world)
